@@ -1,0 +1,16 @@
+{
+  "name": "ejemplo",
+  "version": "1.0.0",
+  "description": "Este es un proyecto de prueba",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Matias Lopez Barrios",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.29.1",
+    "nodemon": "^2.0.12"
+  }
+}
